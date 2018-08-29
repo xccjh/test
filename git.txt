@@ -1,0 +1,5 @@
+git config --list
+ssh-keygen -t rsa
+git config --global user.email "zjh2725353471@gmail.com"
+git config --global user.name "xccjh"
+
